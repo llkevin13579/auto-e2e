@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/llkevin13579/auto-e2e#readme",
   "devDependencies": {
-    "cypress": "^10.3.1"
+    "cypress": "^10.3.1",
+    "cypress-mochawesome-reporter": "^3.2.3"
   }
 }
